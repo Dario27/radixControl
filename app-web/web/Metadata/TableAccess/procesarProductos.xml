@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="f9ea6638-9fb3-4752-bfa0-a512cbe361a7">
+  <Table name="TipoProducto" />
+  <Table name="Categorias" />
+  <Table name="CategoriassubCat" />
+  <Table name="Productos" />
+</Dependencies>

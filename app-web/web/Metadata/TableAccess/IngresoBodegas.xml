@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="774eed3d-0ff1-49a7-9148-5e1b8c8c2981">
+  <Table name="Empresas" />
+  <Table name="Agencias" />
+  <Table name="Proveedor" />
+  <Table name="Productos" />
+  <Table name="IngresoBodegas" />
+  <Table name="IngresoBodegasingreBodDet" />
+</Dependencies>

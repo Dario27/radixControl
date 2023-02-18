@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a1f65a77-8018-4b61-ae31-db9a4c80ec3a">
+  <Table name="Prototipo" />
+  <Table name="Cotizador" />
+</Dependencies>

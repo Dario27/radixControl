@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="568ce9d3-6b30-4f1f-992e-dab89e722b57">
+  <Table name="Empresas" />
+  <Table name="Agencias" />
+  <Table name="Clientes" />
+  <Table name="Marca" />
+  <Table name="Vendedor" />
+  <Table name="Prototipo" />
+  <Table name="TipoOrdenPro" />
+  <Table name="detOpFchs" />
+  <Table name="OrdenProcesos" />
+  <Table name="ArchivosOP" />
+  <Table name="TipoProducto" />
+  <Table name="CategoriassubCat" />
+  <Table name="CotizadorObreros" />
+  <Table name="OrdenPedido" />
+  <Table name="Bodegas" />
+  <Table name="Periodos" />
+</Dependencies>

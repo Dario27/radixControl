@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="3d18c31e-b5e7-4ee0-bb66-a0d765ea8e1c">
+  <Table name="CategoriassubCat" />
+  <Table name="Cotizador" />
+  <Table name="CotizadorLevel1" />
+</Dependencies>

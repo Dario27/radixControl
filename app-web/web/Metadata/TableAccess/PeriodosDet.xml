@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="db9e418f-989c-48f6-bc5b-4fb70e5297bd">
+  <Table name="Usuarios" />
+  <Table name="Periodos" />
+  <Table name="PeriodosPer" />
+  <Table name="PeriodosDetdetFch" />
+</Dependencies>

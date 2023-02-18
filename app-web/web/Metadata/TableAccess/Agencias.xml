@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="35211a6a-2291-46c5-ac90-dd34fca53404">
+  <Table name="Empresas" />
+  <Table name="Agencias" />
+  <Table name="Inventario" />
+  <Table name="Productos" />
+  <Table name="Octipos" />
+  <Table name="ClaseOC" />
+  <Table name="DespBodega" />
+  <Table name="IngresoBodegas" />
+</Dependencies>

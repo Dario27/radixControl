@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7108a4c4-68a6-412d-83ef-f1b84ab6568a">
+  <Table name="Empresas" />
+  <Table name="OrdenProduccionOpItems" />
+  <Table name="TipoProducto" />
+  <Table name="Categorias" />
+  <Table name="CategoriassubCat" />
+  <Table name="CotizadorLevel1" />
+  <Table name="OrdenPedidoOPId" />
+  <Table name="HistPrecioProd" />
+  <Table name="CategoriassubCatSldos" />
+</Dependencies>

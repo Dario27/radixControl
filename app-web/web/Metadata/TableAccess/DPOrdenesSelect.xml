@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="d6ffd6f1-5ddf-4271-9d70-ac82d3c0c79f">
+  <Table name="OrdenProduccionOpItems" />
+  <Table name="CategoriassubCat" />
+</Dependencies>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="d7522668-c9d4-7380-e9de-626df7348d45">
+  <Table name="Usuarios" />
+  <Table name="MENUSUB" />
+  <Table name="Emails" />
+  <Table name="PERMISOS" />
+  <Table name="ProdPrecio" />
+  <Table name="Periodos" />
+</Dependencies>

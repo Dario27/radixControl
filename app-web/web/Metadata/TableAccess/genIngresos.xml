@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="bc56caa7-b9c4-448a-bb1d-f5aeadf9df3e">
+  <Table name="ProdxBodega" />
+  <Table name="ProdxBodegaTipoInv" />
+  <Table name="ProdStockBodegastockDetEgr" />
+</Dependencies>

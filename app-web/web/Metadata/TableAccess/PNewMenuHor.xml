@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a141841a-2842-416b-89cb-4bbd07fc6a03">
+  <Table name="MENU" />
+  <Table name="MENUSUB" />
+  <Table name="MENUSUB1" />
+  <Table name="PERMISOS" />
+</Dependencies>

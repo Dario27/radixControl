@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="a32f8a00-8fb7-4f38-960c-402d2e9eec5f">
+  <Table name="Empresas" />
+  <Table name="Prototipo" />
+  <Table name="TipoProducto" />
+  <Table name="Categorias" />
+  <Table name="CategoriassubCat" />
+  <Table name="Cotizador" />
+  <Table name="CotizadorLevel1" />
+  <Table name="CotizadorObreros" />
+</Dependencies>

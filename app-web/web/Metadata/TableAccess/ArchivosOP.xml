@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="ea65eb47-8c9a-415d-8260-1142d60c87c3">
+  <Table name="Empresas" />
+  <Table name="Usuarios" />
+  <Table name="Clientes" />
+  <Table name="OrdenProduccion" />
+  <Table name="ArchivosOP" />
+</Dependencies>

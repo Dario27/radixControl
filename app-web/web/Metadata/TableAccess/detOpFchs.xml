@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="9d451ff0-ab97-4b54-a00d-14397b3d964e">
+  <Table name="Empresas" />
+  <Table name="TipoOrdenPro" />
+  <Table name="detOpFchs" />
+</Dependencies>

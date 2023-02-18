@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="3f14a4c7-4bbc-45be-bc15-5b34620cecaf">
+  <Table name="Usuarios" />
+  <Table name="Emails" />
+  <Table name="EmailsLevel1" />
+</Dependencies>

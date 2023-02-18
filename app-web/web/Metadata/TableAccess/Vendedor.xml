@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="070901a4-fe7b-45ae-836d-eb3c54d80494">
+  <Table name="Empresas" />
+  <Table name="Vendedor" />
+  <Table name="OrdenProduccion" />
+</Dependencies>

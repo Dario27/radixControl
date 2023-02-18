@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="6a491dee-aece-47d0-8eb1-82a028d58ab5">
+  <Table name="Empresas" />
+  <Table name="Agencias" />
+  <Table name="Clientes" />
+  <Table name="Bodegas" />
+  <Table name="DespBodega" />
+  <Table name="DespBodegaprd" />
+  <Table name="TipoMovimiento" />
+  <Table name="ProdxBodega" />
+  <Table name="ProdxBodegaTipoInv" />
+  <Table name="ProdStockBodegastockDetEgr" />
+</Dependencies>

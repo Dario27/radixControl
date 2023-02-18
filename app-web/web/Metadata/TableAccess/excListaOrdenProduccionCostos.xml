@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="3281feed-fd23-44dd-88f8-9d3ef51b89e7">
+  <Table name="Clientes" />
+  <Table name="Marca" />
+  <Table name="MarcaModelo" />
+  <Table name="Vehiculos" />
+  <Table name="Vendedor" />
+  <Table name="Prototipo" />
+  <Table name="TipoOrdenPro" />
+  <Table name="OrdenProduccion" />
+  <Table name="Procesos" />
+</Dependencies>

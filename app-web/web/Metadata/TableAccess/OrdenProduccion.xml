@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="abf6eb8a-556e-43f9-a9ec-a5ec5e5f015e">
+  <Table name="Empresas" />
+  <Table name="Usuarios" />
+  <Table name="Clientes" />
+  <Table name="Marca" />
+  <Table name="MarcaModelo" />
+  <Table name="Vehiculos" />
+  <Table name="Vendedor" />
+  <Table name="Prototipo" />
+  <Table name="TipoOrdenPro" />
+  <Table name="OrdenProduccion" />
+  <Table name="OrdenProduccionOpItems" />
+  <Table name="Procesos" />
+  <Table name="TipoProducto" />
+  <Table name="Categorias" />
+  <Table name="CategoriassubCat" />
+  <Table name="Obreros" />
+  <Table name="OrdenProduccionObr" />
+  <Table name="Productos" />
+  <Table name="DespBodega" />
+  <Table name="DespBodegaprd" />
+</Dependencies>

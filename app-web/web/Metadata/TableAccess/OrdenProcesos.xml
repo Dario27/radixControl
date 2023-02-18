@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="ec8b4207-ad87-47bc-b876-1bb77378f062">
+  <Table name="Empresas" />
+  <Table name="Procesos" />
+  <Table name="OrdenProcesos" />
+  <Table name="OrdenProcesosLevel1" />
+</Dependencies>

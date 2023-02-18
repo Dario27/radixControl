@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="5c5fe596-46e7-4fe1-a6d4-4be528ed5587">
+  <Table name="Empresas" />
+  <Table name="Usuarios" />
+  <Table name="Periodos" />
+  <Table name="PeriodosPer" />
+  <Table name="PeriodosDetdetFch" />
+</Dependencies>

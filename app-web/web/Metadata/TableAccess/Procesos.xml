@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="76adf2f8-c3ef-47ee-b579-1f101dbcc40a">
+  <Table name="Procesos" />
+  <Table name="OrdenProcesosLevel1" />
+</Dependencies>

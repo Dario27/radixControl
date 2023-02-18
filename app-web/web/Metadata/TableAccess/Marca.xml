@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="9881bf38-ddc2-4ffc-9a37-58482bba654b">
+  <Table name="Empresas" />
+  <Table name="Marca" />
+  <Table name="MarcaModelo" />
+  <Table name="Vehiculos" />
+  <Table name="OrdenProduccion" />
+</Dependencies>

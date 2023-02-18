@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="7777513c-aa50-4a53-bedd-bd0ec0a88088">
+  <Table name="OrdenPedido" />
+  <Table name="OrdenPedidoOPId" />
+</Dependencies>

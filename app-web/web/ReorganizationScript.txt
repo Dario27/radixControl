@@ -1,0 +1,2 @@
+ALTER TABLE [DespBodegaprd] ADD [DespBodModifItem]  char(1) NULL
+

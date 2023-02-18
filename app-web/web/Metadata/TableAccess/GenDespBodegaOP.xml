@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="fa2fc331-7ce7-4907-a87c-97045218cc6f">
+  <Table name="DespBodega" />
+  <Table name="DespBodegaprd" />
+</Dependencies>

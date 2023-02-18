@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="835bf59d-f618-47cd-b4e6-1eea47aa56e0">
+  <Table name="Proveedor" />
+  <Table name="InventariodetInvOc" />
+  <Table name="OrdenCompra" />
+</Dependencies>

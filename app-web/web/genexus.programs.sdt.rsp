@@ -1,0 +1,14 @@
+
+type_SdtActionGroupItem.cs
+type_SdtFileUploadData.cs
+type_SdtGridState.cs
+type_SdtGridState_FilterValue.cs
+type_SdtLinkList_LinkItem.cs
+type_SdtProgramNames_ProgramName.cs
+type_SdtSDTOrdenItems_SDTOrdenItemsItem.cs
+type_SdtSDTPedidos_SDTPedidosItem.cs
+type_SdtSDTUpdateStatus.cs
+type_SdtSDT_SweetAlert.cs
+type_SdtTabOptions_TabOptionsItem.cs
+type_SdtTransactionContext.cs
+type_SdtTransactionContext_Attribute.cs
